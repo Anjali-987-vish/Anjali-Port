@@ -95,7 +95,7 @@ const ContactSection: React.FC = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-primary to-accent mx-auto mt-4"></div>
           <p className="text-gray-300 mt-6 max-w-2xl mx-auto">
-            I'm currently available for and full-time positions freelance work. 
+            I'm currently available for full-time positions and freelance work. 
             If you're interested in working together, have a question, or just want to say hi, 
             feel free to reach out!
           </p>
